@@ -1,4 +1,4 @@
-'''
+"""
 Este é seu primeiro script em python!
 Este programa colocará na tela a mensagem
 "Hello World!", que significa "Olá Mundo!".
@@ -9,7 +9,7 @@ são lidos pelo interpretador do python
 então nele você pode escrever o que quiser
 que não será considerado código.
 Não se esqueça de escrever o script você mesmo!!!
-'''
+"""
 
 print('Hello World!')
 
