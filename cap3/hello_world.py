@@ -18,3 +18,9 @@ print('Hello World!')
 # tudo que estiver entre aspas será considerado uma STRING
 # o tipo de dado string ou str representa um texto, veremos
 # melhor isso mais para frente!
+
+# DESAFIOS
+# DESAFIO 1: criar um script que escreverá na tela "Python é muito legal"
+# DESAFIO 2: criar um script que escreverá "O Python é "top""
+# DESAFIO 3: criar um script escrevendo o que você quiser,
+# porém colocando comentários explicativos em seu código

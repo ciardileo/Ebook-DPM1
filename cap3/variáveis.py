@@ -21,6 +21,8 @@ idade = 16
 
 print(nome, idade)
 
+print('Ebook', 'Python')
+
 """
 No print também pode ser escrito
 múltiplos valores, apenas separando-os
