@@ -19,6 +19,11 @@ print('Hello World!')
 # o tipo de dado string ou str representa um texto, veremos
 # melhor isso mais para frente!
 
+# com o print, você também pode escrever mais de uma coisa, apenas separando as
+# em vírgulas
+
+print('Ebook', 'Python', 'Dominando Python Módulo 1')
+
 # DESAFIOS
 # DESAFIO 1: criar um script que escreverá na tela "Python é muito legal"
 # DESAFIO 2: criar um script que escreverá "O Python é "top""
