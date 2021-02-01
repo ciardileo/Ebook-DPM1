@@ -29,7 +29,7 @@ print('Pada' + 'ria')
 # o código a seguir resultará em um erro, pois não é possível
 # somar um número a um texto
 
-print(1 + 'olá')
+#print(1 + 'olá')
 
 # DESAFIOS
 # DESAFIO 1: criar um script que escreverá na tela "Python é muito legal"
