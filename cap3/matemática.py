@@ -62,9 +62,9 @@ num1 = int(input('Digite um número'))
 # o número que o usuário digitar, apenas preste atenção para nao colocar parênteses a mais
 
 # DESAFIOS:
-# DESAFIO 7: Fazer a conta a seguir: 230 + 140 x 200 / 2, armazenando cada número
+# DESAFIO 7: Fazer a conta a seguir: 230 + 140 x 200 : 2, armazenando cada número
 # em uma variável diferente e colocando os símbolos de conta certos
-# DESAFIO 8: Faça sua própia "calculadora" de soma em DECIMAL
+# DESAFIO 8: Faça sua própia "calculadora" de soma que aceite números DECIMAIS
 # DESAFIO 9: Use a função "trunc()" da biblioteca "Math" para mostrar apenas a parte
-# inteira do resultado das contas decimais. Se necessário, pesquise na documentação para saber usa-lá
+# inteira do resultado das contas decimais do desafio anterior. Se necessário, pesquise na documentação para saber usa-lá
 # ou veja no arquivo de resoluções desse capítulo

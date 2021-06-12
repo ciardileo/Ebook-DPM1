@@ -42,4 +42,4 @@ maior_de_idade = True  # bool
 # DESAFIO 5: Usando a função type(), descubra os tipos de dados das
 # variáveis das palavras do desafio anterior
 # DESAFIO 6: Escreva na tela a soma de duas variáveis do tipo int
-# (caso não conseguir, não se preocupe, o próximo assunto é exatament sobre isso)
+# (caso não conseguir, não se preocupe, o próximo assunto é exatamente sobre isso)
